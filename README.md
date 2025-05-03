@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/block-square-mcp-badge.png)](https://mseep.ai/app/block-square-mcp)
+
 # 🚨 DEPRECATED: Square MCP Server (Old Version)
 
 > **⚠️ This repository is no longer maintained.**  
